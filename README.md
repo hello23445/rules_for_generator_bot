@@ -1,0 +1,1 @@
+# rules_for_generator_bot
